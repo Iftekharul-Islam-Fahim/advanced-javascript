@@ -8,6 +8,5 @@ console.log(part);
 const removed = nums.splice(0, 5, 11, 22, 33, 44, 55);
 console.log(removed);
 console.log(nums);
-
 const together = nums.join(", ");
 console.log(together);
