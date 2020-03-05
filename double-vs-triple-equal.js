@@ -1,9 +1,9 @@
-const first = 2;
-const second = "2";
-const second = 2;
-const second = 3;
-const first = 1;
-const second = true;
+// const first = 2;
+// const second = "2";
+// const second = 2;
+// const second = 3;
+// const first = 1;
+// const second = true;
 const first = 0;
 const second = false;
 
