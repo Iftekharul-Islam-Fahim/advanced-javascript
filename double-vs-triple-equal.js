@@ -14,7 +14,7 @@ else{
     console.log("condition is not true");
 }
 
-/**
+
  if ('2'===2){
     console.log("Inside if");
   }
@@ -22,4 +22,4 @@ else{
   else{
     console.log("Inside else");
   }
- */
+ 
