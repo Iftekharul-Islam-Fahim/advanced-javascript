@@ -1,5 +1,6 @@
 function add(num1, num2){
     //console.log(arguments);//array like object
+    //return num1 + num2 + arguments[2] + arguments[3];
     const arrayLikeObj = arguments;
     const convertToAnArray = ([...arrayLikeObj]);
     let sum = 0;
